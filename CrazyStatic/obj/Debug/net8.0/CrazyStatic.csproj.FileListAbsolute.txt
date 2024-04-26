@@ -1,0 +1,14 @@
+C:\Users\ramartinez\WorkSpace\CrazyStatic\CrazyStatic\bin\Debug\net8.0\CrazyStatic.exe
+C:\Users\ramartinez\WorkSpace\CrazyStatic\CrazyStatic\bin\Debug\net8.0\CrazyStatic.deps.json
+C:\Users\ramartinez\WorkSpace\CrazyStatic\CrazyStatic\bin\Debug\net8.0\CrazyStatic.runtimeconfig.json
+C:\Users\ramartinez\WorkSpace\CrazyStatic\CrazyStatic\bin\Debug\net8.0\CrazyStatic.dll
+C:\Users\ramartinez\WorkSpace\CrazyStatic\CrazyStatic\bin\Debug\net8.0\CrazyStatic.pdb
+C:\Users\ramartinez\WorkSpace\CrazyStatic\CrazyStatic\obj\Debug\net8.0\CrazyStatic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramartinez\WorkSpace\CrazyStatic\CrazyStatic\obj\Debug\net8.0\CrazyStatic.AssemblyInfoInputs.cache
+C:\Users\ramartinez\WorkSpace\CrazyStatic\CrazyStatic\obj\Debug\net8.0\CrazyStatic.AssemblyInfo.cs
+C:\Users\ramartinez\WorkSpace\CrazyStatic\CrazyStatic\obj\Debug\net8.0\CrazyStatic.csproj.CoreCompileInputs.cache
+C:\Users\ramartinez\WorkSpace\CrazyStatic\CrazyStatic\obj\Debug\net8.0\CrazyStatic.dll
+C:\Users\ramartinez\WorkSpace\CrazyStatic\CrazyStatic\obj\Debug\net8.0\refint\CrazyStatic.dll
+C:\Users\ramartinez\WorkSpace\CrazyStatic\CrazyStatic\obj\Debug\net8.0\CrazyStatic.pdb
+C:\Users\ramartinez\WorkSpace\CrazyStatic\CrazyStatic\obj\Debug\net8.0\CrazyStatic.genruntimeconfig.cache
+C:\Users\ramartinez\WorkSpace\CrazyStatic\CrazyStatic\obj\Debug\net8.0\ref\CrazyStatic.dll
